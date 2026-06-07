@@ -3,12 +3,12 @@
 ## Current Parts
 - ESP-32 WROOM MCU
 - MPU-6050
-
-## Currently Needed Components
-- Piezoelectric sensors
 - 2 ft by 2 ft plywood board
 - 2 in by 2 in wood
 - Hinges
+
+## Currently Needed Components
+- Piezoelectric sensors
 
 ## Currently Looking Into
 - 9-axis IMU such as Adafruit BNO055 or ICM-20948
