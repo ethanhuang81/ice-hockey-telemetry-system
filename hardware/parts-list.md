@@ -6,9 +6,10 @@
 - 2 ft by 2 ft plywood board
 - 2 in by 2 in wood
 - Hinges
+- Piezoelectric sensors
 
 ## Currently Needed Components
-- Piezoelectric sensors
+- Metric screws
 
 ## Currently Looking Into
 - 9-axis IMU such as Adafruit BNO055 or ICM-20948
