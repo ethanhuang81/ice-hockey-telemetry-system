@@ -1,5 +1,18 @@
 # Development Log
 
+## 2026-06-08
+
+### Goals
+- Implement working shot-impact detection with piezoelectric sensors
+
+### Accomplishments
+
+### Problems Encountered
+
+### Observations
+
+### Next Steps
+
 ## 2026-05-31
 
 ### Goals
