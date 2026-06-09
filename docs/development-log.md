@@ -6,12 +6,20 @@
 - Implement working shot-impact detection with piezoelectric sensors
 
 ### Accomplishments
+- Have very rough impact detection working
 
 ### Problems Encountered
+- Initially was difficult in getting values from impacts due to low resistance
+- Changed resistance from 1 Megohm to 2 Megohm to get more sensitive impact reading
 
 ### Observations
+- Values acquired from sensor are very widespread
+- Sometimes a peak would result in a sensor reading of 700, other times 1000+ from the same distance and around the same impact
 
 ### Next Steps
+- Test more and tune values
+- Test with multiple piezoelectric sensors
+- Build first wooden prototype!
 
 ## 2026-05-31
 
