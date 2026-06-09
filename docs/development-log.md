@@ -1,6 +1,6 @@
 # Development Log
 
-## 2026-06-08
+## 2026-06-09
 
 ### Goals
 - Implement working shot-impact detection with multiple piezoelectric sensors
