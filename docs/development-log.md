@@ -3,6 +3,20 @@
 ## 2026-06-08
 
 ### Goals
+- Implement working shot-impact detection with multiple piezoelectric sensors
+- Start construction on first wooden prototype
+
+### Accomplishments
+
+### Problems Encountered
+
+### Observations
+
+### Next Steps
+
+## 2026-06-08
+
+### Goals
 - Implement working shot-impact detection with piezoelectric sensors
 
 ### Accomplishments
