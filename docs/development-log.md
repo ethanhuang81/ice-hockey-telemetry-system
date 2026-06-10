@@ -7,12 +7,18 @@
 - Start construction on first wooden prototype
 
 ### Accomplishments
+- Successfully implemented working impact detection with two piezoelectric sensors
 
 ### Problems Encountered
+- Faulty connections
 
 ### Observations
+- Piezoelectric readings are still very rough and differ greatly
 
 ### Next Steps
+- Implement impact detection with four piezoelectric sensors
+- Continue working on wooden prototype
+- Tune piezoelectric sensor readings
 
 ## 2026-06-08
 
