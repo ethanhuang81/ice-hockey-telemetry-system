@@ -46,8 +46,8 @@ Planned additions:
 - [x] ESP32 setup
 - [x] MPU6050 communication
 - [x] Orientation estimation
-- [ ] Piezo sensor integration
-- [ ] Impact detection
+- [x] Piezo sensor integration
+- [x] Impact detection
 
 ### Phase 2: Impact Board Prototype
 
