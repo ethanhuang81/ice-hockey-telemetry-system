@@ -1,5 +1,26 @@
 # Development Log
 
+## 2026-06-20
+
+### Goals
+- Implement working shot-impact detection with all four piezoelectric sensors
+- Determine location of puck dependent on piezoelectric sensor readings
+
+### Accomplishments
+- Finished code for shot detection and puck impact location detection
+
+### Problems Encountered
+- Faulty connections, leading to issues with piezoelectric sensor readings
+
+### Observations
+- Had issues with piezoelectric sensors producing peak values of 0 which is below the threshold
+
+### Next Steps
+- Test code
+- Continue working on wooden prototype
+- Tune piezoelectric sensor readings
+
+
 ## 2026-06-09
 
 ### Goals
