@@ -51,7 +51,7 @@ Planned additions:
 
 ### Phase 2: Impact Board Prototype
 
-- [ ] Build 2ft x 2ft impact board
+- [x] Build 2ft x 2ft impact board
 - [ ] Install piezo sensor array
 - [ ] Detect impact location
 - [ ] Record impact intensity
