@@ -1,5 +1,23 @@
 # Development Log
 
+## 2026-06-27
+
+### Goals
+- Finish impact board
+
+### Accomplishments
+- Finished building wooden impact board
+
+### Problems Encountered
+- Connections between wooden posts at the corners would be unstable, so instead a PETG 3DP corner mount was used
+
+### Observations
+- Build was pretty sturdy after using 3DP corner mounts
+
+### Next Steps
+- Install piezo sensor array and MPU6050 to the wooden prototype
+- Potentially consider designing a shock absorbent case for the ESP-32 and MPU6050
+
 ## 2026-06-20
 
 ### Goals
